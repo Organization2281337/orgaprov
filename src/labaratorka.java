@@ -1,7 +1,5 @@
 
-import java.io.File;
 import java.util.Arrays;
-import java.util.Scanner;
 import java.util.Vector;
 import javax.swing.DefaultListModel;
 import javax.swing.JOptionPane;
