@@ -300,7 +300,7 @@ public class labaratorka extends javax.swing.JFrame {
         }
         ltFioGradeGroup.setModel(dwl); //вывод листа
         lblSrZnach.setText(total / count + ""); //вывод среднего значения
-        
+                
     }
 
     public labaratorka() {
