@@ -1,7 +1,5 @@
 
-import java.io.File;
 import java.util.Arrays;
-import java.util.Scanner;
 import java.util.Vector;
 import javax.swing.DefaultListModel;
 import javax.swing.JOptionPane;
@@ -302,7 +300,7 @@ public class labaratorka extends javax.swing.JFrame {
         }
         ltFioGradeGroup.setModel(dwl); //вывод листа
         lblSrZnach.setText(total / count + ""); //вывод среднего значения
-        
+                
     }
 
     public labaratorka() {
